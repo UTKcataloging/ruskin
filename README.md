@@ -8,18 +8,20 @@ Metadata for the migration of the Ruskin collection (part of special collections
 
 ```
 |-- cleaned_data
-    |-- modsbypid
+    |-- modsbyPID
       |--ruskin:101.xml
       |--ruskin:102.xml
       |--ruskin:103.xml
 	    |-- etc. etc.
       |--ruskin:205.xml
     |-- remediation_files
+        |-- modscollection.xml        
         |-- ruskin.openrefine.tar.gz
         |-- ruskin.xpr
-        |-- modscollection.xml
+        |-- splitter_bypid.xsl        
 	|-- open_refine_template.md
 |-- original_data
-    |-- ruskin.xlsx
+    |-- ruskin.csv 
+    |-- ruskin.xlsx  
 
 ```
