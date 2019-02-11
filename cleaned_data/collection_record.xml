@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Photographs of the Ruskin Cooperative Association</title>
+    </titleInfo>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1896</dateCreated>
+        <dateCreated encoding="edtf" point="end">1963</dateCreated>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <abstract>This digital collection documents the Ruskin Cooperative Association, a utopian socialist colony established in 1894 in Dickson County, Tennessee. Indiana newspaperman Julius Augustus Wayland founded the model colony and used his socialist weekly, The Coming Nation, to raise both support and money for the project. One could join the colony by purchasing a share and demonstrating a commitment to cooperative living. Colonists contributed to farming, cooking, and printing The Coming Nation, and enjoyed free education and medical care, an extensive library, frequent lectures, music, and a communal theater. Wayland left after only a year, and by 1899 factionalism had caused the colony to disintegrate. In 1904, the coeducational Ruskin Cave College opened on the colony’s grounds. Classes included literature and religion but emphasized musical education. The college was forced to close in 1918 when many faculty enlisted to serve in World War I.
+        
+        Images in the Ruskin Colony Collection show the land, structures, and people of the short-lived socialist experiment and the college that later occupied the Ruskin site. The Betsey B. Creekmore Special Collections and University Archives holds several collections that document the activities and development of the Ruskin Cooperative Association and the Ruskin Cave College.</abstract>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/30004630">photographs</form>
+        <extent>104 phtographs</extent>
+    </physicalDescription>
+    <subject>
+        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028258">Collective settlements</topic>
+        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028356">College students</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/nr93003802">
+        <name>
+            <namePart>Ruskin Co-operative Association</namePart>
+        </name>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n87909599">
+        <name>
+            <namePart>Wayland, J. A. (Julius Augustus), 1854-1912</namePart>
+        </name>
+    </subject>
+    <subject authority="geonames" valueURI="http://sws.geonames.org/4654856/about.rdf">
+        <geographic>Ruskin</geographic>
+        <cartographics>
+            <coordinates>36.14905, -87.35666</coordinates>
+        </cartographics>
+    </subject>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Ruskin Cave College Collection</title>
+        </titleInfo>
+        <identifier>MS.0335</identifier>
+        <location>
+            <url>https://n2t.net/ark:/87290/v8wq01zq</url>
+        </location>
+    </relatedItem>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Ruskin Cooperative Association Collection</title>
+        </titleInfo>
+        <identifier>MS.0023</identifier>
+        <location>
+            <url>https://n2t.net/ark:/87290/v81g0jf1</url>
+        </location>
+    </relatedItem>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Ruskin Settlement</title>
+        </titleInfo>
+        <identifier>MS.1014</identifier>
+        <location>
+            <url>https://n2t.net/ark:/87290/v857195r</url>
+        </location>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

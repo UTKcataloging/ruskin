@@ -8,6 +8,7 @@ Metadata for the migration of the Ruskin collection (part of special collections
 
 ```
 |-- cleaned_data
+    |-- collection_record.xml
     |-- modsbyPID
       |--ruskin:101.xml
       |--ruskin:102.xml
