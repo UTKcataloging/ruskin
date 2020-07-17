@@ -56,7 +56,7 @@
       </cartographics>
    </subject>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300"/>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <typeOfResource>still image</typeOfResource>
